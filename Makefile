@@ -1,3 +1,2 @@
 build: 
-	go build
-	
+	go build ./cmd/solrbeat
